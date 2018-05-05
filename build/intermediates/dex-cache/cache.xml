@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\software\programs\cr\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4ef1db58dce24937bb65056733b00241002bff48">
+        <dex dex="D:\software\programs\cr\app\build\intermediates\pre-dexed\debug\instant-run_19ee4b56601a3a1271b15b7cab648a38546b06b2.jar" />
+    </item>
+    <item
+        jar="C:\Users\kiran\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\software\programs\cr\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_1bd5bfcf054ffd14ba8351d6cef40d472bb94dfe.jar" />
+    </item>
+    <item
+        jar="D:\software\programs\cr\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="D:\software\programs\cr\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_7227313bbf01c2386960f9b0e05f946febb52471.jar" />
+    </item>
+    <item
+        jar="D:\software\programs\cr\app\build\intermediates\exploded-aar\com.android.support\support-v13\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c87270a9d828773c296fadde93e939c8190a6b1b">
+        <dex dex="D:\software\programs\cr\app\build\intermediates\pre-dexed\debug\com.android.support-support-v13-24.0.0_b655b134b9fa355681d862c1c2fa5ee6b629486c.jar" />
+    </item>
+    <item
+        jar="D:\software\programs\cr\app\build\intermediates\exploded-aar\com.android.support\support-v13\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="61fd2644ca586288d0e733377d12b5f6da18c4ca">
+        <dex dex="D:\software\programs\cr\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_494c040b48a6ae0bc7d15bf75803a9f1fe69d2c9.jar" />
+    </item>
+    <item
+        jar="D:\software\programs\cr\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="D:\software\programs\cr\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0_f056e95f081b7ec99ead794721c6f06ae1d8f045.jar" />
+    </item>
+    <item
+        jar="D:\software\programs\cr\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="D:\software\programs\cr\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.0.0_bed3ac5b482358596dfc26f6d73ad6ba3b48fe8f.jar" />
+    </item>
+    <item
+        jar="D:\software\programs\cr\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="D:\software\programs\cr\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.0.0_9d3cd0b1cb635dea6ff1196c4d8db46ad9ca334f.jar" />
+    </item>
+    <item
+        jar="C:\Users\kiran\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\software\programs\cr\app\build\intermediates\pre-dexed\debug\glide-3.7.0_ffcf7473042b5f30a3ec79106a5dc0243fc9ce51.jar" />
+    </item>
+    <item
+        jar="D:\software\programs\cr\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2b144c625745ee70088759f3dd6fd9798fc59425">
+        <dex dex="D:\software\programs\cr\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_66886ecfcecbce26c96d8212212e0fa99785bc14.jar" />
+    </item>
+    <item
+        jar="C:\Users\kiran\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="D:\software\programs\cr\app\build\intermediates\pre-dexed\debug\gson-2.8.0_78eaa8eeec25845b5104af93444c4e6d4e5aac57.jar" />
+    </item>
+    <item
+        jar="D:\software\programs\cr\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="D:\software\programs\cr\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_a95347ea23b2cba9c3b988da092a60df97a0dda5.jar" />
+    </item>
+    <item
+        jar="D:\software\programs\cr\app\build\intermediates\exploded-aar\com.daimajia.slider\library\1.1.5\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
+        <dex dex="D:\software\programs\cr\app\build\intermediates\pre-dexed\debug\com.daimajia.slider-library-1.1.5_0281ccf9f96989c678e21444e1e529344f9a8804.jar" />
+    </item>
+    <item
+        jar="D:\software\programs\cr\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="D:\software\programs\cr\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0_e363ec2122638f629c359396b5813fccf2bd1f6e.jar" />
+    </item>
+    <item
+        jar="D:\software\programs\cr\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="D:\software\programs\cr\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0_65b2ae62f8ddc3ec69dea51fe17d8eecc03fd3a8.jar" />
+    </item>
+    <item
+        jar="D:\software\programs\cr\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="D:\software\programs\cr\app\build\intermediates\pre-dexed\debug\YouTubeAndroidPlayerApi_9f48cc9ce5fcc340d56ad3fd327edc0e5655f5de.jar" />
+    </item>
+    <item
+        jar="C:\Users\kiran\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\software\programs\cr\app\build\intermediates\pre-dexed\debug\library-2.4.0_0b7f4c366af533eb9bf489ddcb88c8490b3317b5.jar" />
+    </item>
+    <item
+        jar="C:\Users\kiran\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="D:\software\programs\cr\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_06d876ffc442d4661cf834ac4181253993c1dc68.jar" />
+    </item>
+    <item
+        jar="D:\software\programs\cr\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="D:\software\programs\cr\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.0.0_405312dbe9ab74c062fbddb72884132f6355c060.jar" />
+    </item>
+
+</items>
